@@ -7,3 +7,6 @@ Esses dados so existem na branch de texte
 Essa linha será para textar o commit
 
 Mudei o editor do commit para o vscode, vamos ver se ira funcionar
+
+
+ensinando a Pauli a usar o git commit
